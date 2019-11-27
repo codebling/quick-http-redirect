@@ -1,0 +1,11 @@
+{
+  "name": "quick-http-redirect",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "license": "UNLICENSED",
+  "devDependencies": {
+  },
+  "scripts": {
+  }
+}

@@ -4,8 +4,7 @@
   "main": "index.js",
   "private": true,
   "license": "UNLICENSED",
-  "devDependencies": {
-  },
-  "scripts": {
-  }
+  "devDependencies": {},
+  "scripts": {},
+  "dependencies": {}
 }
